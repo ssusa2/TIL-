@@ -33,6 +33,10 @@
 
 [DFS / 깊이 우선 탐색](./Algorithms/DFS.md)
 
+[Stack](./Algorithms/Stack.md)
+
+[Queue](./Algorithms/Queue.md)
+
 <br/>
 
 <details>
