@@ -36,6 +36,7 @@ const accessRemove = stack.pop();
 console.log(accessRemove, stack);
 //d, [a, b, c]
 
+// 최상단 원소 확인
 const access = stack[stack.length - 1];
 console.log(access, stack);
 //d, [a, b, c]
@@ -44,3 +45,8 @@ console.log(access, stack);
 const size = stack.length;
 console.log(size); // 3
 ```
+
+---
+
+stack를 배열로 구현할 때
+원소를 담는 배열 한 개와 인덱스를 저장할 변수 하나로 가능하다.

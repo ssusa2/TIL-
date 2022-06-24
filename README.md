@@ -23,7 +23,13 @@
 
   </details>
 
----
+<details>
+  <summary>Math</summary>
+<br/>
+
+[소수점](./JavaScript/Math/Math.md)
+
+## </details>
 
 <br/>
 
@@ -36,6 +42,8 @@
 [Stack](./Algorithms/Stack.md)
 
 [Queue](./Algorithms/Queue.md)
+
+[연결 리스트](./Algorithms/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
 <br/>
 
