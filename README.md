@@ -37,6 +37,8 @@
 
 [Set](./JavaScript/SetMap/Set.md)
 
+[Map](./JavaScript/SetMap/Map.md)
+
 ## </details>
 
 <br/>
