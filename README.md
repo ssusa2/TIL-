@@ -39,7 +39,15 @@
 
 [Map](./JavaScript/SetMap/Map.md)
 
-## </details>
+</details>
+
+<details>
+  <summary>동기 & 비동기</summary>
+<br/>
+
+[Promise](./JavaScript/%EB%8F%99%EA%B8%B0%20%EB%B9%84%EB%8F%99%EA%B8%B0/Promise.md)
+
+</details>
 
 <br/>
 
