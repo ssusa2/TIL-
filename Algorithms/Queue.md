@@ -12,7 +12,7 @@ Stack 구조 와는 달리 먼저 들어간 원소가 먼저 나오게 되는 �
 
 구멍이 두 개라고 생각하자.
 
-<img src="Queue.png">
+<img src="./images/Queue.png">
 
 ---
 

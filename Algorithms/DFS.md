@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="./DFS.png">
+<img src="./images/./DFS.png">
 
 ---
 

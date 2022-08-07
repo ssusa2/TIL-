@@ -8,7 +8,7 @@
 Stack은 바로 한쪽 끝에서만 원소를 넣거나 뺄 수 있는 자료구조
 출입구가 하나라고 생각하자.
 
-<img src="Stack.png">
+<img src="./images/Stack.png">
 
 Stack은 구조(LIFO)의 특성상 **나중에 넣은 원소가 먼저 나오게 되어 있습니다**.
 
